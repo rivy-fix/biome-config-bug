@@ -1,0 +1,15 @@
+{
+  "name": "repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Roy Ivy III <rivy.dev@gmail.com> (https://rivy.dev/)",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@biomejs/biome": "^1.8.3"
+  }
+}
